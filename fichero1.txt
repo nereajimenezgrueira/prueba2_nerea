@@ -1,1 +1,1 @@
-Esto es el fichero1
+He modificado el texto del fichero 1.
