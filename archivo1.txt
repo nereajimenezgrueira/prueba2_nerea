@@ -1,1 +1,2 @@
 Esto es el fichero nº1
+Esta es la línea de modificación agregada del archivo1.
